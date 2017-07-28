@@ -4,8 +4,8 @@ make change
 
  !!! update !!! ??? c(I need to make some change)hange to massdfsdter ranch
 
-if a == 1
-reuturn k
+if a == 100
+reuturn 99
 
 
 new added !!!
