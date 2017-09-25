@@ -1,4 +1,3 @@
-first time
-
-
-printf (“test1″);
+a line 
+b line 
+c line
